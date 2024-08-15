@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ACC_APP</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autodesk.Authentication" Version="1.0.0" />
+    <PackageReference Include="Autodesk.ModelDerivative" Version="1.0.0" />
+    <PackageReference Include="Autodesk.OSS" Version="1.0.0" />
+    <PackageReference Include="Autodesk.SdkManager" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
