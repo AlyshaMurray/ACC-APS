@@ -1,5 +1,9 @@
 appsettings.Development.json
 
-# Ignoring build directories
+# Build directories
 /bin/
 /obj/
+
+# Auto-generated files
+.vscode/
+.vs/
